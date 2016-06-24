@@ -2,8 +2,8 @@
 Tools that meant to boost up game_dev speed
 
 # SAS Maker
-     SAS stands for skills,abilities,spells
-     Watch it on YOUTUBE: https://youtu.be/VJ6Gv8bbCes 
+SAS stands for skills,abilities,spells
+Watch it on YOUTUBE: https://youtu.be/VJ6Gv8bbCes 
 
      SkillInventory's Inspector  
      A collection of the skills you created, where you can obvserve and modify their bheaviours
