@@ -3,9 +3,13 @@ Tools that meant to boost up game_dev speed
 
 Watch it on YOUTUBE: https://youtu.be/VJ6Gv8bbCes 
 
+SkillInventory's Inspector  
+     A collection of the skills you created, where you can obvserve and modify their bheaviours
+
 Skill.cs
+     
      DESCRIPTION:
-         This is the BASE CLASS for any of desire skills.
+         This is the BASE CLASS to create any desired skills
      
      HOW TO USE: 
          1. Inherite this class for your new skill scripts
