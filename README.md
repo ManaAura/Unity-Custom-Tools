@@ -2,7 +2,7 @@
 Tools that meant to boost up game_dev speed
 
 # SAS Maker
-SAS stands for skills,abilities,spells
+SAS MAKER allows designers / developers to easily create skills,abilities,spells
 Watch it on YOUTUBE: https://youtu.be/VJ6Gv8bbCes 
 
      SkillInventory's Inspector  
