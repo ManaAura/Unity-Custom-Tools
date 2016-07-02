@@ -2,7 +2,7 @@
 Tools that meant to boost up game_dev speed
 
 # SAS Maker
-SAS MAKER allows game designers / developers to easily create skills,abilities,spells!!
+SAS MAKER allows game designers / developers to easily create skills,abilities,spells with its unique inspectors and base classes!!
 Watch it on YOUTUBE: https://youtu.be/VJ6Gv8bbCes 
 
      SkillInventory's Inspector  
